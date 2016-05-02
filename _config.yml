@@ -1,0 +1,28 @@
+name: justofftheportbow
+favicon: null
+layout_spectrum: 0.11586860567331314
+typography_spectrum: 0.09735732991248369
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.271753171691671
+  lightness: 0.5670464944560081
+  saturation: 0.6592080881819129
+  rhythmicContrast: 0.4408832404296845
+purpose: []
