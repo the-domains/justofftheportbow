@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'This past weekend we were on grandparent duty. Three kids, aged seven, three and nearly two. Four days, ten meals, three bath and bed times, a few loads of laundry and dishes, countless books, and, for the three year old boy, a lot of baseball outside.'
-datePublished: '2016-05-04T00:13:23.287Z'
-dateModified: '2016-05-04T00:13:03.483Z'
+datePublished: '2016-05-04T00:20:27.901Z'
+dateModified: '2016-05-04T00:20:26.447Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-03-this-past-weekend-we-were-on-grandparent-duty-three-kids-a.md
