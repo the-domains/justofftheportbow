@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'This past weekend we were on grandparent duty. Three kids, aged seven, three and nearly two. Four days, ten meals, three bath and bed times, a few loads of laundry and dishes, countless books, and, for the three year old boy, a lot of baseball outside.'
-datePublished: '2016-05-04T00:20:27.901Z'
-dateModified: '2016-05-04T00:20:26.447Z'
-title: ''
+datePublished: '2016-05-04T00:21:47.299Z'
+dateModified: '2016-05-04T00:21:43.851Z'
+title: Inside the mind of a boy
 author: []
 sourcePath: _posts/2016-05-03-this-past-weekend-we-were-on-grandparent-duty-three-kids-a.md
 published: true
@@ -22,6 +22,8 @@ url: this-past-weekend-we-were-on-grandparent-duty-three-kids-a/index.html
 _type: WebPage
 
 ---
+# Inside the mind of a boy
+
 This past weekend we were on grandparent duty. Three kids, aged seven, three and nearly two. Four days, ten meals, three bath and bed times, a few loads of laundry and dishes, countless books, and, for the three year old boy, a lot of baseball outside.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8a3fc617-3ab5-40be-9cb3-b750878905d8.jpg)
 
