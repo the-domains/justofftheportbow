@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'A friend used to tell me about his parents, who never changed—"semper idem". Well, with The Grid things are always changing. It is forever Spring, or Autumn. Take your pick. And, actually, The Grid does the picking and changing, while you bring in the content.'
-datePublished: '2016-05-04T20:22:06.113Z'
-dateModified: '2016-05-04T20:22:03.403Z'
+datePublished: '2016-05-04T20:23:29.364Z'
+dateModified: '2016-05-04T20:23:21.477Z'
 title: ''
 author:
   - name: ''
