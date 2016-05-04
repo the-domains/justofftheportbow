@@ -5,12 +5,11 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'I am working through a massive collection of Jack Kerouac writing, a collection from his notebooks entitled, Some of the Dharma. The bit I am reading now is dated 1954. I was four years old at the time. '
-datePublished: '2016-05-04T00:25:02.212Z'
-dateModified: '2016-05-04T00:21:08.038Z'
+datePublished: '2016-05-04T20:24:45.349Z'
+dateModified: '2016-05-04T20:24:24.983Z'
 title: Jack Kerouac - Reflections
 author: []
 sourcePath: _posts/2016-05-02-jack-kerouac-reflections.md
-published: true
 authors: []
 publisher:
   name: null
@@ -57,9 +56,9 @@ I remember my therapist talking about the perils attending the unobserved mind. 
 In mindful meditation one does not "coddle the senses" but rather observes and makes a mental note. 
 
 "Tension in the leg." "Heat in the upper chest."
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c249bec6-9ec0-48f3-ab3e-1b02dc561e78.jpg)
 
 Curiosity with compassion is that which cultivates. It is, in fact, like tending a garden by cultivating the soil. The sought for end is not the soil itself, nor the process of the cultivating, though both of these are a part of what we call gardening, but rather the fruit or flower that blooms and grows.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c249bec6-9ec0-48f3-ab3e-1b02dc561e78.jpg)
 
 _+ + +_
 
