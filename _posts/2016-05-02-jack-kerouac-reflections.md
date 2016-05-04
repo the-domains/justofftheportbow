@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'I am working through a massive collection of Jack Kerouac writing, a collection from his notebooks entitled, Some of the Dharma. The bit I am reading now is dated 1954. I was four years old at the time. '
-datePublished: '2016-05-04T00:14:22.770Z'
-dateModified: '2016-05-03T13:52:12.132Z'
+datePublished: '2016-05-04T00:25:02.212Z'
+dateModified: '2016-05-04T00:21:08.038Z'
 title: Jack Kerouac - Reflections
 author: []
 sourcePath: _posts/2016-05-02-jack-kerouac-reflections.md
