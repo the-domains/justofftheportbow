@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'So, we are getting started on The Grid. I can tell that there is a new rhythm associated with this platform, a new pace, and a completely new concept.'
-datePublished: '2016-05-04T00:23:15.373Z'
-dateModified: '2016-05-04T00:22:39.299Z'
+datePublished: '2016-05-04T00:24:16.007Z'
+dateModified: '2016-05-04T00:23:46.458Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-03-so-we-are-getting-started-on-the-grid-i-can-tell-that-ther.md
