@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'This past weekend we were on grandparent duty. Three kids, aged seven, three and nearly two. Four days, ten meals, three bath and bed times, a few loads of laundry and dishes, countless books, and, for the three year old boy, a lot of baseball outside.'
-datePublished: '2016-05-04T18:03:14.828Z'
-dateModified: '2016-05-04T18:02:30.412Z'
+datePublished: '2016-05-04T18:05:15.180Z'
+dateModified: '2016-05-04T18:04:45.746Z'
 title: Inside the mind of a boy
 author: []
 sourcePath: _posts/2016-05-03-this-past-weekend-we-were-on-grandparent-duty-three-kids-a.md
@@ -37,7 +37,6 @@ There is relativity galore here. The location of home plate, the pitcher's mound
 I need to add here the movement from the "dugout", which is wherever he was standing, to the "plate" or "mound". He throws his chest out, lifts his fists, cocks his elbows and lopes with carefully measured authority to his new position. The viewer is meant to note every subtlety of strength, courage, purpose and vigor. World Series games won. Home runs scored. Miraculous diving catches displayed.
 
 When he is batting one gets the full drama. He struts to the plate, stares into the stands and basks in the adulation, gives me, the pitcher, only the slightest notice, and waits confidently for the glory of the struck ball.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/71898a28-8802-4fa6-9d5a-4c71dccbf100.jpg)
 
 I throw a soft rubber ball in his direction. He had wanted his real baseball to be part of the game; the one that his dog had half chewed up. Somehow I had convinced him that getting hit in the face by the hard ball was not worth the glory of heightened authentication.
 
