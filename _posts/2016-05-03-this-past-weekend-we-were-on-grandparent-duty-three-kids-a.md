@@ -1,14 +1,16 @@
 ---
 inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: 'This past weekend we were on grandparent duty. Three kids, aged seven, three and nearly two. Four days, ten meals, three bath and bed times, a few loads of laundry and dishes, countless books, and, for the three year old boy, a lot of baseball outside.'
-datePublished: '2016-05-03T12:32:29.889Z'
-dateModified: '2016-05-03T12:26:43.239Z'
+datePublished: '2016-05-04T00:13:23.287Z'
+dateModified: '2016-05-04T00:13:03.483Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-03-this-past-weekend-we-were-on-grandparent-duty-three-kids-a.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,10 +18,8 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-03-this-past-weekend-we-were-on-grandparent-duty-three-kids-a.md
-published: true
 url: this-past-weekend-we-were-on-grandparent-duty-three-kids-a/index.html
-_type: Blurb
+_type: WebPage
 
 ---
 This past weekend we were on grandparent duty. Three kids, aged seven, three and nearly two. Four days, ten meals, three bath and bed times, a few loads of laundry and dishes, countless books, and, for the three year old boy, a lot of baseball outside.
