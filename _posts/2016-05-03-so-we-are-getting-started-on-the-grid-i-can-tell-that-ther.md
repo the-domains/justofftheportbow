@@ -4,9 +4,9 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: 'So, we are getting started on The Grid. I can tell that there is a new rhythm associated with this platform, a new pace, and a completely new concept. '
-datePublished: '2016-05-04T19:54:46.011Z'
-dateModified: '2016-05-04T19:54:13.546Z'
+description: 'A friend used to tell me about his parents, who never changed—"semper idem". Well, with The Grid things are always changing. It is forever Spring, or Autumn. Take your pick. And, actually, The Grid does the picking and changing, while you bring in the content.'
+datePublished: '2016-05-04T19:56:12.307Z'
+dateModified: '2016-05-04T19:56:07.073Z'
 title: ''
 author:
   - name: ''
