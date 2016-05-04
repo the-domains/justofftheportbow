@@ -4,11 +4,13 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: 'So, we are getting started on The Grid. I can tell that there is a new rhythm associated with this platform, a new pace, and a completely new concept.'
-datePublished: '2016-05-04T19:03:41.986Z'
-dateModified: '2016-05-04T19:03:37.523Z'
+description: 'So, we are getting started on The Grid. I can tell that there is a new rhythm associated with this platform, a new pace, and a completely new concept. '
+datePublished: '2016-05-04T19:54:46.011Z'
+dateModified: '2016-05-04T19:54:13.546Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-05-03-so-we-are-getting-started-on-the-grid-i-can-tell-that-ther.md
 authors: []
 publisher:
@@ -21,9 +23,7 @@ url: so-we-are-getting-started-on-the-grid-i-can-tell-that-ther/index.html
 _type: WebPage
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b038c00a-a16f-44db-b95d-8bca7b4f7c1a.jpg)
-
-# The Grid is here!
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6fc4efef-afa9-4825-8bc2-38c9691dc92b.jpg)
 
 So, we are getting started on The Grid. I can tell that there is a new rhythm associated with this platform, a new pace, and a completely new concept.
 
