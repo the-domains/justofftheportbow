@@ -4,9 +4,9 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: 'A friend used to tell me about his parents, who never changed—"semper idem". Well, with The Grid things are always changing. It is forever Spring, or Autumn. Take your pick. And, actually, The Grid does the picking and changing, while you bring in the content.'
-datePublished: '2016-05-14T22:11:12.231Z'
-dateModified: '2016-05-14T22:11:06.775Z'
+description: 'So, we are getting started on The Grid. I can tell that there is a new rhythm associated with this platform, a new pace, and a completely new concept.'
+datePublished: '2016-05-14T22:19:10.854Z'
+dateModified: '2016-05-14T22:19:07.050Z'
 title: ''
 author:
   - name: ''
@@ -23,8 +23,6 @@ url: so-we-are-getting-started-on-the-grid-i-can-tell-that-ther/index.html
 _type: WebPage
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6fc4efef-afa9-4825-8bc2-38c9691dc92b.jpg)
-
 So, we are getting started on The Grid. I can tell that there is a new rhythm associated with this platform, a new pace, and a completely new concept.
 
 A friend used to tell me about his parents, who never changed---"semper idem". Well, with The Grid things are always changing. It is forever Spring, or Autumn. Take your pick. And, actually, The Grid does the picking and changing, while you bring in the content.
