@@ -5,10 +5,11 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-08T16:31:08.153Z'
-dateModified: '2016-05-08T16:30:49.074Z'
+datePublished: '2016-05-14T22:10:57.998Z'
+dateModified: '2016-05-10T17:24:46.437Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-08-tulip-explosion-in-southborough-ma.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-08-tulip-explosion-in-southborough-ma.md
 url: tulip-explosion-in-southborough-ma/index.html
 _type: WebPage
 
