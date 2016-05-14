@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Website as Garden - Colors/View levels/textures and lines - Part 2
-datePublished: '2016-05-14T22:19:18.935Z'
-dateModified: '2016-05-14T22:18:29.040Z'
+datePublished: '2016-05-14T22:20:59.870Z'
+dateModified: '2016-05-14T22:20:55.301Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-14-website-as-garden-colorsview-levelstextures-and-lines-.md
