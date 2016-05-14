@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-14T22:10:57.998Z'
-dateModified: '2016-05-10T17:24:46.437Z'
+datePublished: '2016-05-14T22:11:43.594Z'
+dateModified: '2016-05-14T22:11:41.879Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-08-tulip-explosion-in-southborough-ma.md
